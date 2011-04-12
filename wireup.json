@@ -1,0 +1,15 @@
+{
+	"body#homepage":{
+		
+		"ui.js":
+		[
+			["#menu", "click", "expand"],
+			["document", "ready", "expand"]
+		],
+		"test.js":
+		[
+			["#search", "hide", "'slow', alert_hidden"]
+		]
+		
+	}
+}
